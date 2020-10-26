@@ -1,4 +1,4 @@
-# Introducción - Mandy, la compañera inteligente 
+# Introducción - Mandy, la Acompañante Inteligente 
 
 La química está en todas partes y fabricantes transforman las materias primas en productos finales usando el conocimiento de la química y propiedades físicas de esas materias primas. Los productos finales se venden en las tiendas y tienen química que puede funcionar a nuestro favor o en nuestra contra. Por ello, es destacable conocer los ingredientes y la química que contienen los productos manufacturados. Esto permitiran usarlos más seguramente y consumirlos de forma más confiable.
 
@@ -15,7 +15,7 @@ Las secciones se mencionan en el orden en que funciona la aplicación y estas ac
     • Implementación de transcripción de audio de Youtube
 
 
-![workflow-1000.jpg](attachment:workflow-1000.jpg)
+![workflow-1000.jpg](workflow-1000.jpg)
 
 ## Implementación de tecnología Wit.ai
 
