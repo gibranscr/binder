@@ -2,6 +2,8 @@
 
 La química está en todas partes y fabricantes transforman las materias primas en productos finales usando el conocimiento de la química y propiedades físicas de esas materias primas. Los productos finales se venden en las tiendas y tienen química que puede funcionar a nuestro favor o en nuestra contra. Por ello, es destacable conocer los ingredientes y la química que contienen los productos manufacturados. Esto permitiran usarlos más seguramente y consumirlos de forma más confiable.
 
+![label-detergent-small.jpg](detergents-350.jpg)
+
 Los compuestos químicos existen en diferentes fases a temperaturas y presiones específicas en ambientes determinados. Por lo tanto, las personas o potenciales se entiende que los consumidores de productos podrían estar más interesadas en aprender sobre el manejo correcto de un producto que contiene un compuesto químico. Por ejemplo: los detergentes contienen una mezcla de sustancias químicas que podrían transformarse en otras sustancias químicas nocivas cuando se mezclan o almacenan en entornos estresantes. Como ama de casa, sería una decisión inteligente preguntarle a Mandy sobre algunos de los compuestos químicos que se almacenan en casa. Las lociones, cremas, maquillaje y muchos otros productos que se compran a diario también contienen sustancias químicas que quizás le interese conocer mejor antes de comprarlas.
 
 Mandy utiliza la tecnología Wit.ai para ayudar a identificar si un usuario desea mezclar, almacenar o buscar más información sobre un compuesto químico. PubChem es la colección más grande del mundo de información química de libre acceso que proporciona alrededor de 100 millones de registros de compuestos químicos que son consultados para entrenar a Mandy y proveer de datos e información relevante que te llega en tu correo electrónico. Finalmente, los datos fiables obtenidos de PubChem se complementan con información práctica obtenida de la plataforma de YouTube. El resultado es un resumen en texto del audio completo del video y la texto completo del audio del video encontrado. La consulta hecha a YouTube sigue los algoritmos de inteligencia artificial que usa la plataforma para ofrecerte el video más adecuado para ver. Posteriormente se envía al correo electrónico del usuario la transcripción realizada del video.
@@ -29,7 +31,7 @@ Específicamente, la aplicación identifica las siguientes intenciones:
     • Intención de almacenamiento: el usuario debe almacenar un compuesto químico o un producto que contenga un compuesto químico específico. El usuario descubre las precauciones de almacenamiento de este tipo de químicos
     • Intención de búsqueda de información: el usuario desea conocer las propiedades y características de un compuesto químico.
     
-![entrenamiento-1000.jpg](attachment:entrenamiento-1000.jpg)
+![entrenamiento-1000.jpg](entrenamiento-1000.jpg)
 
 
 ### Crear una cuenta Wit.ai
@@ -209,7 +211,7 @@ Es importante que identifiques el momento en el que Mandy te muestra los compues
 
 ### Identificación de compuestos químicos e intenciones
 
-![label-detergent-small.jpg](attachment:label-detergent-small.jpg)
+![label-detergent-small.jpg](label-detergent-small.jpg)
 
 La aplicación utiliza las siguientes bibliotecas de Python que le permiten obtener la información correcta para el usuario:
 
